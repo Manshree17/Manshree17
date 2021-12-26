@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Manshree Kadambari
 - 👀 I’m interested in web development and AI
 - 🌱 I’m currently learning web development 
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on web developing
 - 📫 How to reach me @manshreekadambari17@gmail.com
 
 
